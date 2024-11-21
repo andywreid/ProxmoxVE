@@ -20,6 +20,15 @@ Do not break established syntax in this file, as it is automatically updated by 
 
 
 
+
+## 2024-11-21
+
+### Changed
+
+### ❔ Unlabelled
+
+- [pull] main from community-scripts:main [@pull[bot]](https://github.com/pull[bot]) ([#9](https://github.com/andywreid/ProxmoxVE/pull/9))
+
 ## 2024-11-20
 
 ### Changed
