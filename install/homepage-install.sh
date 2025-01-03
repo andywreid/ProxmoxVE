@@ -1,6 +1,6 @@
 #!/usr/bin/env bash
 
-# Copyright (c) 2021-2024 tteck
+# Copyright (c) 2021-2025 tteck
 # Author: tteck (tteckster)
 # License: MIT
 # https://github.com/community-scripts/ProxmoxVE/raw/main/LICENSE
@@ -43,6 +43,8 @@ rm -rf homepage-${RELEASE}
 cd /opt/homepage
 cp /opt/homepage/src/skeleton/* /opt/homepage/config
 $STD pnpm install
+export NEXT_PUBLIC_VERSION="v$RELEASE"
+export NEXT_PUBLIC_REVISION="source"
 $STD pnpm build
 echo "${RELEASE}" >/opt/${APPLICATION}_version.txt
 msg_ok "Installed Homepage v${RELEASE}"
