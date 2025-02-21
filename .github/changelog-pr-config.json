@@ -1,34 +1,42 @@
 [
   {
-      "title": "💥 Breaking Changes",
-      "labels": ["breaking change"]
+    "title": "💥 Breaking Changes",
+    "labels": ["breaking change"]
   },
   {
-      "title": "✨ New Scripts",
-      "labels": ["new script"]
+    "title": "🆕 New Scripts",
+    "labels": ["new script"]
   },
   {
-      "title": "🚀 Updated Scripts",
-      "labels": ["update script"]
+    "title": "🚀 Updated Scripts",
+    "labels": ["update script"]
   },
   {
-      "title": "🌐 Website",
-      "labels": ["website"]
+    "title": "🐞 Bug Fixes (Updated Scripts)",
+    "labels": ["update script", "bugfix"]
   },
   {
-      "title": "🐞 Bug Fixes",
-      "labels": ["bug fix"]
+    "title": "✨ Feature Updates (Updated Scripts)",
+    "labels": ["update script", "feature"]
   },
   {
-      "title": "🧰 Maintenance",
-      "labels": ["maintenance"]
+    "title": "✨ New Features",
+    "labels": ["feature"]
   },
   {
-      "title": "📡 API",
-      "labels": ["api"]
+    "title": "🌐 Website",
+    "labels": ["website"]
   },
   {
-      "title": "❔ Unlabelled",
-      "labels": []
+    "title": "📡 API",
+    "labels": ["api"]
+  },
+  {
+    "title": "🧰 Maintenance",
+    "labels": ["maintenance"]
+  },
+  {
+    "title": "❔ Unlabelled",
+    "labels": []
   }
 ]

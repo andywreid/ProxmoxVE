@@ -17,6 +17,51 @@ All LXC instances created using this repository come pre-installed with Midnight
 Do not break established syntax in this file, as it is automatically updated by a Github Workflow
 
 
+## 2025-02-21
+
+### Changes
+
+### 🚀 Updated Scripts
+
+- Add ZFS to Podman. Now it works on ZFS! [@jaminmc](https://github.com/jaminmc) ([#2526](https://github.com/community-scripts/ProxmoxVE/pull/2526))
+- Fix: Tianji - Downgrade Node [@MickLesk](https://github.com/MickLesk) ([#2530](https://github.com/community-scripts/ProxmoxVE/pull/2530))
+
+### 🧰 Maintenance
+
+- [gh] General Cleanup & Moving Files / Folders [@MickLesk](https://github.com/MickLesk) ([#2532](https://github.com/community-scripts/ProxmoxVE/pull/2532))
+
+## 2025-02-20
+
+### Changes
+
+### 💥 Breaking Changes
+
+- Breaking: Actual Budget Script (HTTPS / DB Migration / New Structure) - Read Description [@MickLesk](https://github.com/MickLesk) ([#2496](https://github.com/community-scripts/ProxmoxVE/pull/2496))
+- Pihole & Unbound: Installation for Pihole V6 (read description) [@MickLesk](https://github.com/MickLesk) ([#2505](https://github.com/community-scripts/ProxmoxVE/pull/2505))
+
+### ✨ New Scripts
+
+- New Script: Dolibarr [@tremor021](https://github.com/tremor021) ([#2502](https://github.com/community-scripts/ProxmoxVE/pull/2502))
+
+### 🚀 Updated Scripts
+
+- Fix: Pingvin Share - Update not copying to correct directory [@tremor021](https://github.com/tremor021) ([#2521](https://github.com/community-scripts/ProxmoxVE/pull/2521))
+- WikiJS: Prepare for Using PostgreSQL [@MickLesk](https://github.com/MickLesk) ([#2516](https://github.com/community-scripts/ProxmoxVE/pull/2516))
+
+### 🧰 Maintenance
+
+- [gh] better handling of labels [@MickLesk](https://github.com/MickLesk) ([#2517](https://github.com/community-scripts/ProxmoxVE/pull/2517))
+
+## 2025-02-19
+
+### Changes
+
+### 🚀 Updated Scripts
+
+- Fix: file replacement in Watcharr Update Script [@Clusters](https://github.com/Clusters) ([#2498](https://github.com/community-scripts/ProxmoxVE/pull/2498))
+- Fix: Kometa - fixed successful setup message and added info to json [@tremor021](https://github.com/tremor021) ([#2495](https://github.com/community-scripts/ProxmoxVE/pull/2495))
+- Fix: Actual Budget, add missing .env when updating [@MickLesk](https://github.com/MickLesk) ([#2494](https://github.com/community-scripts/ProxmoxVE/pull/2494))
+
 ## 2025-02-18
 
 ### Changes
