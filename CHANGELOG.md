@@ -12,6 +12,13 @@ Exercise vigilance regarding copycat or coat-tailing sites that seek to exploit 
 
 ## 2025-10-21
 
+### 🚀 Updated Scripts
+
+  - #### 🐞 Bug Fixes
+
+    - Alpine-TeamSpeak-Server: Fix release version fetching [@tremor021](https://github.com/tremor021) ([#8537](https://github.com/community-scripts/ProxmoxVE/pull/8537))
+    - jellyfin: fix opencl dep for ubuntu [@MickLesk](https://github.com/MickLesk) ([#8535](https://github.com/community-scripts/ProxmoxVE/pull/8535))
+
 ## 2025-10-20
 
 ### 🚀 Updated Scripts
